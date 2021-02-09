@@ -1,4 +1,12 @@
-#include<array>
+/*
+ * @Author: your name
+ * @Date: 2021-02-09 13:33:52
+ * @LastEditTime: 2021-02-09 13:38:08
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \cppWeekly\cpp20\ep188-constexpr-new.cpp
+ */
+#include<array>//
 constexpr auto get_value()
 {
     int *i=new int{5};

@@ -10,5 +10,7 @@ E:/ln/2021SpringFestival/cppWeekly/cpp17/cpp17/out/build/x64-Debug (默认值)/c
 E:/ln/2021SpringFestival/cppWeekly/cpp17/cpp17/out/build/x64-Debug (默认值)/cpp17CookBook/Chapter-1/CMakeFiles/edit_cache.dir
 E:/ln/2021SpringFestival/cppWeekly/cpp17/cpp17/out/build/x64-Debug (默认值)/cpp17CookBook/Chapter-1/CMakeFiles/rebuild_cache.dir
 E:/ln/2021SpringFestival/cppWeekly/cpp17/cpp17/out/build/x64-Debug (默认值)/cppWeekly-cpp17/CMakeFiles/ep12-any.dir
+E:/ln/2021SpringFestival/cppWeekly/cpp17/cpp17/out/build/x64-Debug (默认值)/cppWeekly-cpp17/CMakeFiles/ep18-constexpr_if.dir
+E:/ln/2021SpringFestival/cppWeekly/cpp17/cpp17/out/build/x64-Debug (默认值)/cppWeekly-cpp17/CMakeFiles/fold_expressions.dir
 E:/ln/2021SpringFestival/cppWeekly/cpp17/cpp17/out/build/x64-Debug (默认值)/cppWeekly-cpp17/CMakeFiles/edit_cache.dir
 E:/ln/2021SpringFestival/cppWeekly/cpp17/cpp17/out/build/x64-Debug (默认值)/cppWeekly-cpp17/CMakeFiles/rebuild_cache.dir

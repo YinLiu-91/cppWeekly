@@ -270,6 +270,13 @@ build cppWeekly-cpp17\CMakeFiles\ep12-any.dir\ep12-any.cpp.obj: CXX_COMPILER__ep
   TARGET_COMPILE_PDB = cppWeekly-cpp17\CMakeFiles\ep12-any.dir\
   TARGET_PDB = cppWeekly-cpp17\ep12-any.pdb
 
+build cppWeekly-cpp17\CMakeFiles\ep12-any.dir\ep18-constexpr_if.cpp.obj: CXX_COMPILER__ep12-any_Debug ..\..\..\cppWeekly-cpp17\ep18-constexpr_if.cpp || cmake_object_order_depends_target_ep12-any
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17
+  OBJECT_DIR = cppWeekly-cpp17\CMakeFiles\ep12-any.dir
+  OBJECT_FILE_DIR = cppWeekly-cpp17\CMakeFiles\ep12-any.dir
+  TARGET_COMPILE_PDB = cppWeekly-cpp17\CMakeFiles\ep12-any.dir\
+  TARGET_PDB = cppWeekly-cpp17\ep12-any.pdb
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target ep12-any
@@ -278,7 +285,7 @@ build cppWeekly-cpp17\CMakeFiles\ep12-any.dir\ep12-any.cpp.obj: CXX_COMPILER__ep
 #############################################
 # Link the executable cppWeekly-cpp17\ep12-any.exe
 
-build cppWeekly-cpp17\ep12-any.exe: CXX_EXECUTABLE_LINKER__ep12-any_Debug cppWeekly-cpp17\CMakeFiles\ep12-any.dir\ep12-any.cpp.obj
+build cppWeekly-cpp17\ep12-any.exe: CXX_EXECUTABLE_LINKER__ep12-any_Debug cppWeekly-cpp17\CMakeFiles\ep12-any.dir\ep12-any.cpp.obj cppWeekly-cpp17\CMakeFiles\ep12-any.dir\ep18-constexpr_if.cpp.obj
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
@@ -289,6 +296,78 @@ build cppWeekly-cpp17\ep12-any.exe: CXX_EXECUTABLE_LINKER__ep12-any_Debug cppWee
   TARGET_FILE = cppWeekly-cpp17\ep12-any.exe
   TARGET_IMPLIB = cppWeekly-cpp17\ep12-any.lib
   TARGET_PDB = cppWeekly-cpp17\ep12-any.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ep18-constexpr_if
+
+
+#############################################
+# Order-only phony target for ep18-constexpr_if
+
+build cmake_object_order_depends_target_ep18-constexpr_if: phony || cppWeekly-cpp17\CMakeFiles\ep18-constexpr_if.dir
+
+build cppWeekly-cpp17\CMakeFiles\ep18-constexpr_if.dir\ep18-constexpr_if.cpp.obj: CXX_COMPILER__ep18-constexpr_if_Debug ..\..\..\cppWeekly-cpp17\ep18-constexpr_if.cpp || cmake_object_order_depends_target_ep18-constexpr_if
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17
+  OBJECT_DIR = cppWeekly-cpp17\CMakeFiles\ep18-constexpr_if.dir
+  OBJECT_FILE_DIR = cppWeekly-cpp17\CMakeFiles\ep18-constexpr_if.dir
+  TARGET_COMPILE_PDB = cppWeekly-cpp17\CMakeFiles\ep18-constexpr_if.dir\
+  TARGET_PDB = cppWeekly-cpp17\ep18-constexpr_if.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ep18-constexpr_if
+
+
+#############################################
+# Link the executable cppWeekly-cpp17\ep18-constexpr_if.exe
+
+build cppWeekly-cpp17\ep18-constexpr_if.exe: CXX_EXECUTABLE_LINKER__ep18-constexpr_if_Debug cppWeekly-cpp17\CMakeFiles\ep18-constexpr_if.dir\ep18-constexpr_if.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = cppWeekly-cpp17\CMakeFiles\ep18-constexpr_if.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = cppWeekly-cpp17\CMakeFiles\ep18-constexpr_if.dir\
+  TARGET_FILE = cppWeekly-cpp17\ep18-constexpr_if.exe
+  TARGET_IMPLIB = cppWeekly-cpp17\ep18-constexpr_if.lib
+  TARGET_PDB = cppWeekly-cpp17\ep18-constexpr_if.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target fold_expressions
+
+
+#############################################
+# Order-only phony target for fold_expressions
+
+build cmake_object_order_depends_target_fold_expressions: phony || cppWeekly-cpp17\CMakeFiles\fold_expressions.dir
+
+build cppWeekly-cpp17\CMakeFiles\fold_expressions.dir\fold_expressions.cpp.obj: CXX_COMPILER__fold_expressions_Debug ..\..\..\cppWeekly-cpp17\fold_expressions.cpp || cmake_object_order_depends_target_fold_expressions
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17
+  OBJECT_DIR = cppWeekly-cpp17\CMakeFiles\fold_expressions.dir
+  OBJECT_FILE_DIR = cppWeekly-cpp17\CMakeFiles\fold_expressions.dir
+  TARGET_COMPILE_PDB = cppWeekly-cpp17\CMakeFiles\fold_expressions.dir\
+  TARGET_PDB = cppWeekly-cpp17\fold_expressions.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target fold_expressions
+
+
+#############################################
+# Link the executable cppWeekly-cpp17\fold_expressions.exe
+
+build cppWeekly-cpp17\fold_expressions.exe: CXX_EXECUTABLE_LINKER__fold_expressions_Debug cppWeekly-cpp17\CMakeFiles\fold_expressions.dir\fold_expressions.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = cppWeekly-cpp17\CMakeFiles\fold_expressions.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = cppWeekly-cpp17\CMakeFiles\fold_expressions.dir\
+  TARGET_FILE = cppWeekly-cpp17\fold_expressions.exe
+  TARGET_IMPLIB = cppWeekly-cpp17\fold_expressions.lib
+  TARGET_PDB = cppWeekly-cpp17\fold_expressions.pdb
 
 
 #############################################
@@ -327,6 +406,14 @@ build apply_functions_on_tuples.exe: phony cpp17CookBook\Chapter-8\apply_functio
 build ep12-any: phony cppWeekly-cpp17\ep12-any.exe
 
 build ep12-any.exe: phony cppWeekly-cpp17\ep12-any.exe
+
+build ep18-constexpr_if: phony cppWeekly-cpp17\ep18-constexpr_if.exe
+
+build ep18-constexpr_if.exe: phony cppWeekly-cpp17\ep18-constexpr_if.exe
+
+build fold_expressions: phony cppWeekly-cpp17\fold_expressions.exe
+
+build fold_expressions.exe: phony cppWeekly-cpp17\fold_expressions.exe
 
 build if_constexpr: phony cpp17CookBook\Chapter-1\if_constexpr.exe
 
@@ -368,7 +455,7 @@ build cpp17CookBook\Chapter-8\all: phony cpp17CookBook\Chapter-8\any.exe cpp17Co
 #############################################
 # Folder: E:/ln/2021SpringFestival/cppWeekly/cpp17/cpp17/out/build/x64-Debug (Ä¬ÈÏÖµ)/cppWeekly-cpp17
 
-build cppWeekly-cpp17\all: phony cppWeekly-cpp17\ep12-any.exe
+build cppWeekly-cpp17\all: phony cppWeekly-cpp17\ep12-any.exe cppWeekly-cpp17\ep18-constexpr_if.exe cppWeekly-cpp17\fold_expressions.exe
 
 # =============================================================================
 # Built-in targets

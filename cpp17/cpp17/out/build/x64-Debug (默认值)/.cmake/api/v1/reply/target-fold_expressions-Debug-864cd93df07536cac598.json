@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "cppWeekly-cpp17/ep12-any.exe"
+			"path" : "cppWeekly-cpp17/fold_expressions.exe"
 		},
 		{
-			"path" : "cppWeekly-cpp17/ep12-any.pdb"
+			"path" : "cppWeekly-cpp17/fold_expressions.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 7,
+				"line" : 8,
 				"parent" : 0
 			}
 		]
@@ -51,7 +51,7 @@
 			]
 		}
 	],
-	"id" : "ep12-any::@3a208de2089b8206c4fe",
+	"id" : "fold_expressions::@3a208de2089b8206c4fe",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -71,8 +71,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "ep12-any",
-	"nameOnDisk" : "ep12-any.exe",
+	"name" : "fold_expressions",
+	"nameOnDisk" : "fold_expressions.exe",
 	"paths" : 
 	{
 		"build" : "cppWeekly-cpp17",
@@ -93,7 +93,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "cppWeekly-cpp17/ep12-any.cpp",
+			"path" : "cppWeekly-cpp17/fold_expressions.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

@@ -59,7 +59,7 @@
 					"source" : "cpp17CookBook/Chapter-1",
 					"targetIndexes" : 
 					[
-						3
+						5
 					]
 				},
 				{
@@ -73,7 +73,9 @@
 					"source" : "cppWeekly-cpp17",
 					"targetIndexes" : 
 					[
-						2
+						2,
+						3,
+						4
 					]
 				}
 			],
@@ -95,7 +97,9 @@
 						0,
 						1,
 						2,
-						3
+						3,
+						4,
+						5
 					]
 				}
 			],
@@ -118,8 +122,22 @@
 				{
 					"directoryIndex" : 4,
 					"id" : "ep12-any::@3a208de2089b8206c4fe",
-					"jsonFile" : "target-ep12-any-Debug-441fcff6f95e5cdce2ec.json",
+					"jsonFile" : "target-ep12-any-Debug-e15cbb9cae9bdcfbd9ac.json",
 					"name" : "ep12-any",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "ep18-constexpr_if::@3a208de2089b8206c4fe",
+					"jsonFile" : "target-ep18-constexpr_if-Debug-767bdda06745aef266e7.json",
+					"name" : "ep18-constexpr_if",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "fold_expressions::@3a208de2089b8206c4fe",
+					"jsonFile" : "target-fold_expressions-Debug-864cd93df07536cac598.json",
+					"name" : "fold_expressions",
 					"projectIndex" : 0
 				},
 				{

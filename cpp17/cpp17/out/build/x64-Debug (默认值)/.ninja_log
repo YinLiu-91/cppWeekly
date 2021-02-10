@@ -1,3 +1,13 @@
 # ninja log v5
-0	467	634631680	cpp17CookBook/Chapter-1/CMakeFiles/if_constexpr.dir/if_constexpr.cpp.obj	742d9bac166a9410
-468	915	634631681	cpp17CookBook/Chapter-1/if_constexpr.exe	98a4c305d451b0b6
+0	564	634640424	cppWeekly-cpp17/CMakeFiles/ep18-constexpr_if.dir/ep18-constexpr_if.cpp.obj	cb447c9673db41c8
+565	998	634640425	cppWeekly-cpp17/ep18-constexpr_if.exe	faefd89ff334cdad
+0	561	634640645	cppWeekly-cpp17/CMakeFiles/ep18-constexpr_if.dir/ep18-constexpr_if.cpp.obj	cb447c9673db41c8
+562	821	634640646	cppWeekly-cpp17/ep18-constexpr_if.exe	faefd89ff334cdad
+0	614	634640673	cppWeekly-cpp17/CMakeFiles/ep18-constexpr_if.dir/ep18-constexpr_if.cpp.obj	cb447c9673db41c8
+615	869	634640674	cppWeekly-cpp17/ep18-constexpr_if.exe	faefd89ff334cdad
+0	859	634645758	cppWeekly-cpp17/CMakeFiles/ep18-constexpr_if.dir/ep18-constexpr_if.cpp.obj	cb447c9673db41c8
+860	1541	634645758	cppWeekly-cpp17/ep18-constexpr_if.exe	faefd89ff334cdad
+0	415	634645772	cppWeekly-cpp17/CMakeFiles/ep18-constexpr_if.dir/ep18-constexpr_if.cpp.obj	cb447c9673db41c8
+416	1078	634645772	cppWeekly-cpp17/ep18-constexpr_if.exe	faefd89ff334cdad
+0	758	634648334	cppWeekly-cpp17/CMakeFiles/fold_expressions.dir/fold_expressions.cpp.obj	1d73742edcbe3dc0
+759	1388	634648334	cppWeekly-cpp17/fold_expressions.exe	2f40dc5e5540c10b

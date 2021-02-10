@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/ln/2021SpringFestival/cppWeekly/cpp17/cpp17/out/build/x64-Debug (默认值)/cppWeekly-cpp17/CMakeFiles/ep18-constexpr_if.dir/embed.manifest"

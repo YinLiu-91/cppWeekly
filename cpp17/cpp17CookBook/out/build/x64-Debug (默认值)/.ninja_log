@@ -1,7 +1,0 @@
-# ninja log v5
-0	2881	634616167	cpp17CookBook/CMakeFiles/cpp17CookBook.dir/cpp17CookBook.cpp.obj	6f08af453c36cdf2
-2882	3633	634616168	cpp17CookBook/cpp17CookBook.exe	4a8ce525f31dd473
-0	1253	634617207	cpp17CookBook/Chapter-8/CMakeFiles/any.dir/any.cpp.obj	f7cf41f2c15cd8cc
-1254	1981	634617208	cpp17CookBook/Chapter-8/any.exe	b919d62c626bc285
-1	1251	634617221	cpp17CookBook/Chapter-8/CMakeFiles/apply_functions_on_tuples.dir/apply_functions_on_tuples.cpp.obj	ab15fea619882f71
-1252	2213	634617222	cpp17CookBook/Chapter-8/apply_functions_on_tuples.exe	3d3d220d6f9e4aa3

@@ -1,0 +1,8 @@
+
+cmake_minimum_required (VERSION 3.8)
+
+
+add_executable (creating_strings "creating_strings.cpp" )
+
+
+
